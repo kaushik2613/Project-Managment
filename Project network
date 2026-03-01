@@ -1,0 +1,178 @@
+
+Do the following exercises from Chapter 6 of the textbook: 10, 14,
+and 21. Can scan in information as appropriate and add to MS Word
+document for submission.
+1.
+10.
+
+2 | P a g e
+Ans
+𝐸𝐹 (𝐸𝑎𝑟𝑙𝑦 𝐹𝑖𝑛𝑖𝑠ℎ) = 𝐸𝑆 + 𝐷𝑢𝑟𝑎𝑡𝑖𝑜𝑛
+𝐿𝑆 (𝐿𝑎𝑡𝑒 𝑆𝑡𝑎𝑟𝑡) = 𝐿𝐹 ― 𝐷𝑢𝑟𝑎𝑡𝑖𝑜𝑛
+𝑆𝑙𝑎𝑐𝑘 = 𝐿𝑆 ― 𝐸𝑆
+ID
+Duration
+Predecessors
+A
+8
+None
+B
+2
+A
+C
+3
+A
+D
+60
+A
+E
+40
+B
+F
+2
+C
+G
+2
+D
+H
+20
+E, F
+I
+10
+G
+J
+10
+H, I
+K
+12
+J
+L
+3
+K
+
+3 | P a g e
+Summary Table
+ID
+ES
+EF
+LS
+LF
+Slack
+Critical Path?
+A
+0
+8
+0
+8
+0
+Yes
+B
+8
+10
+18
+20
+10
+No
+C
+8
+11
+55
+58
+47
+No
+D
+8
+68
+8
+68
+0
+Yes
+E
+10
+50
+20
+60
+10
+No
+F
+11
+13
+58
+60
+47
+No
+G
+68
+70
+68
+70
+0
+Yes
+H
+50
+70
+60
+80
+10
+No
+I
+70
+80
+70
+80
+0
+Yes
+J
+80
+90
+80
+90
+0
+Yes
+K
+90
+102
+90
+102
+0
+Yes
+L
+102
+105
+102
+105
+0
+Yes
+•
+Activities with 0 slack are on the critical path.
+•
+The critical path: A → D → G → I → J → K → L
+•
+Project duration: 105 days
+
+4 | P a g e
+
+5 | P a g e
+2.
+14.
+
+6 | P a g e
+Ans
+
+7 | P a g e
+
+8 | P a g e
+
+9 | P a g e
+3.
+21.
+Ans
+OR
+
+10 | P a g e
+OR
+
+11 | P a g e
+Both the start and the finish of each activity lie on the critical path. An activity would have
+only its start (or only its finish) on the critical path only if ES = LS but EF ≠ LF (or EF = LF but
+ES ≠ LS), which would give nonzero slack — not the case here.
